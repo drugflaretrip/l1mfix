@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @l1mfix
-- 👀 I’m interested in java source, c++
+- 👋 Hello, I am Nikolay (@l1mfix)
+- 👀 I’m interested in java script, c# and c++
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [voronkink@gmail.com]
-
-<!---
-l1mfix/l1mfix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on other content github
+- 📫 My contact details: >email: nvoronkin@internet.ru >reddit: u/l1mfix
+- Bio: I wouldn't call myself a programmer. I am just a beginner in this section. I study several languages ​​I like. I am writing some programs that I myself need.
